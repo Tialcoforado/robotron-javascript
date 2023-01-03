@@ -1,6 +1,6 @@
 # robotron-2000
 
-Projeto realizado acompanhando o professor da Alura Pedro Martins
+Projeto realizado acompanhando o professor da Alura Pedro Marins
 
 Projeto javascript que manipula o DOM - (Document Object Model)
 
